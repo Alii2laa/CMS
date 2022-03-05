@@ -5,7 +5,7 @@
 
 
     if(isset($_POST['submit'])){
-        $toMe = "alialaamembership@gmail.com";
+        $toMe = "";
         $email = "Form: " . mysqli_real_escape_string($connection,$_POST['email']);
         $subject = mysqli_real_escape_string($connection,$_POST['subject']);
         $message = mysqli_real_escape_string($connection,$_POST['message']);

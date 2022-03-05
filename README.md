@@ -11,7 +11,7 @@ What you can do as [Admin]:
  - Update (category - post - user)
  - Approve / draft commet
  - Publish / draft commet
-  <br>
+
 What you can do as [User]: 
 <br>
  - See posts

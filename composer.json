@@ -1,0 +1,19 @@
+{
+    "name": "ali/cms",
+    "require": {
+        "phpmailer/phpmailer": "^6.5",
+        "ext-openssl": "*",
+        "ext-mysqli": "*"
+    },
+    "autoload": {
+        "classmap": [
+            "classes"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Alii2laa",
+            "email": "alialaaofficial@gmail.com"
+        }
+    ]
+}

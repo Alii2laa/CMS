@@ -14,8 +14,8 @@ What you can do as [Admin]:
   <br>
 What you can do as [User]: 
 <br>
-  - See posts
-  - Like / dislike posts
-  - Add comment
+ - See posts
+ - Like / dislike posts
+ - Add comment
   <br>
 Lastly, I try to do some validation to prevent security vulnerability like (xss, sql,idor)

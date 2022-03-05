@@ -6,16 +6,16 @@
 
 What you can do as [Admin]:
 <br>
- -Add    (category - post - user)
- -Delete (category - post - user)
- -Update (category - post - user)
- -Approve / draft commet</li>
- -Publish / draft commet</li>
+ - Add    (category - post - user)
+ - Delete (category - post - user)
+ - Update (category - post - user)
+ - Approve / draft commet
+ - Publish / draft commet
   <br>
 What you can do as [User]: 
 <br>
-  -See posts
-  -Like / dislike posts
-  -Add comment
+  - See posts
+  - Like / dislike posts
+  - Add comment
   <br>
 Lastly, I try to do some validation to prevent security vulnerability like (xss, sql,idor)
